@@ -1,0 +1,9 @@
+MYSQL:
+  enabled: false
+  hostname: 'localhost'
+  database: 'database'
+  username: 'username'
+  password: 'password'
+  port: 3306
+world: labsWorld
+playerSpawn: world,0,55,0:0$0

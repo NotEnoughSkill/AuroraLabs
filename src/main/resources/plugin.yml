@@ -1,0 +1,13 @@
+name: Auroralabs
+version: '${project.version}'
+main: me.notenoughskill.auroralabs.AuroraLabsPlugin
+api-version: 1.18
+softdepend: [ WorldGuard, WorldEdit, Essentials ]
+authors: [ NotEnoughSkill ]
+commands:
+  labs:
+    description: Display info about Labs events.
+    usage: /<command>
+  alabs:
+    description: Admin Labs command.
+    usage: /<command>
